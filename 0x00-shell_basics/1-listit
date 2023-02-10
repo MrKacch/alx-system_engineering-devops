@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "0-current 0-current_working_directory 1-listit alx-system_engineering-devops Display README.md .1-listit.swp"
+echo "0-current 0-current_working_directory 1-listit alx-system_engineering-devops Display README.md"
