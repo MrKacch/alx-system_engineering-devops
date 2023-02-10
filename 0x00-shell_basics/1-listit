@@ -1,2 +1,12 @@
 #!/bin/bash
-echo "result"
+echo "0-current
+
+0-current_working_directory
+
+1-listit
+
+alx-system_engineering-devops
+
+Display
+
+README.md"
